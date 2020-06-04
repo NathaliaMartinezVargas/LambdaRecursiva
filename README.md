@@ -1,7 +1,7 @@
-# LambdaRecursiva
+## LambdaRecursiva
 1) Estudiante: Nathalia Marcela Martinez Vargas
 
-##Explicación
+## Explicación
 
 En el ejemplo se realiza:
 
