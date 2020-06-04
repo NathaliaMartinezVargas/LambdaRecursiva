@@ -1,4 +1,4 @@
-## LambdaRecursiva
+## Lambda Recursiva
 1) Estudiante: Nathalia Marcela Martinez Vargas
 
 ## Explicación
