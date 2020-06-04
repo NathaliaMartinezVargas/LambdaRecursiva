@@ -10,4 +10,4 @@ La reducción de una lista es aplicar la función reductora a la cabeza y al res
 La importación de una libreria denominada Unittest que realiza pruebas para sabeer si el codigo compilado funciona de la mejor manera
 
 ## Imagen de referencia
-![Tipos de Assert]()
+![Tipos de Assert](https://github.com/NathaliaMartinezVargas/LambdaRecursiva/blob/master/assert.png)
